@@ -1,0 +1,419 @@
+﻿1
+00:00:00,256 --> 00:00:06,400
+<font color="#fcfcfc">It's one of the most popular and Powerful server Technologies today</font>
+
+2
+00:00:06,656 --> 00:00:12,800
+<font color="#e4e4e4">Experts are among the highest paid in the industry allows you to build entire web software and</font>
+
+3
+00:00:13,056 --> 00:00:19,200
+<font color="#fcfcfc">Only one programming language and it's time for you to understand it properly</font>
+
+4
+00:00:19,456 --> 00:00:25,600
+<font color="#f4f4f4">Welcome to learn and understand nodejs</font>
+
+5
+00:00:32,512 --> 00:00:33,024
+<font color="#f3f3f3">Hi</font>
+
+6
+00:00:33,280 --> 00:00:34,560
+<font color="#d7d7d7">I'm Tony Alicia</font>
+
+7
+00:00:34,816 --> 00:00:39,168
+<font color="#e1e1e1">My 15-year veteran of web application development and user experience design</font>
+
+8
+00:00:39,424 --> 00:00:40,704
+<font color="#fcfcfc">And welcome to this course</font>
+
+9
+00:00:41,984 --> 00:00:46,848
+<font color="#f6f6f6">In this course we're going to take a deep dive under the hood of nodejs</font>
+
+10
+00:00:47,360 --> 00:00:48,128
+<font color="#f7f7f7">The famous</font>
+
+11
+00:00:48,384 --> 00:00:50,688
+<font color="#f6f6f6">Popular server technology that lets us</font>
+
+12
+00:00:50,944 --> 00:00:53,504
+<font color="#ebebeb">Write server code in JavaScript</font>
+
+13
+00:00:54,784 --> 00:00:56,320
+<font color="#fcfcfc">This course is not about</font>
+
+14
+00:00:56,576 --> 00:00:57,856
+<font color="#fcfcfc">Diving into</font>
+
+15
+00:00:58,368 --> 00:00:58,880
+<font color="#f5f5f5">Just</font>
+
+16
+00:00:59,136 --> 00:01:01,440
+<font color="#f7f7f7">What nodejs is and what you can do with it</font>
+
+17
+00:01:02,208 --> 00:01:03,232
+<font color="#d5d5d5">Discourse</font>
+
+18
+00:01:03,488 --> 00:01:06,816
+<font color="#fcfcfc">Has to do with my fundamental philosophy when it comes</font>
+
+19
+00:01:07,072 --> 00:01:07,840
+<font color="#e5e5e5">Learning</font>
+
+20
+00:01:08,096 --> 00:01:10,144
+<font color="#fcfcfc">Especially when it comes to learning code</font>
+
+21
+00:01:11,168 --> 00:01:12,704
+<font color="#f7f7f7">My Philosophy is this</font>
+
+22
+00:01:13,472 --> 00:01:14,240
+<font color="#fcfcfc">Don't imitate</font>
+
+23
+00:01:15,008 --> 00:01:16,032
+<font color="#fcfcfc">Understand</font>
+
+24
+00:01:17,312 --> 00:01:22,688
+<font color="#fbfbfb">I think the biggest problem with most coding books and online tutorials and videos</font>
+
+25
+00:01:22,944 --> 00:01:23,456
+<font color="#f8f8f8">Is that</font>
+
+26
+00:01:23,712 --> 00:01:25,504
+<font color="#fcfcfc">The focus is on imitation</font>
+
+27
+00:01:25,760 --> 00:01:26,528
+<font color="#bbbbbb">Another words</font>
+
+28
+00:01:27,040 --> 00:01:28,576
+<font color="#fcfcfc">The instructor write some code</font>
+
+29
+00:01:28,832 --> 00:01:30,112
+<font color="#fcfcfc">And then you write that code</font>
+
+30
+00:01:30,624 --> 00:01:32,928
+<font color="#e4e4e4">And then the supposition is that oh</font>
+
+31
+00:01:33,184 --> 00:01:34,208
+<font color="#f0f0f0">You know what you're doing</font>
+
+32
+00:01:34,976 --> 00:01:39,840
+<font color="#f7f7f7">But then you get out into the real world and face problems that are different than the ones you see in the course</font>
+
+33
+00:01:40,352 --> 00:01:41,376
+<font color="#e0e0e0">We Fall Down</font>
+
+34
+00:01:42,144 --> 00:01:42,656
+<font color="#f1f1f1">Why</font>
+
+35
+00:01:43,424 --> 00:01:47,264
+<font color="#f9f9f9">Because much more important than simply imitating someone else's code</font>
+
+36
+00:01:48,032 --> 00:01:51,360
+<font color="#fcfcfc">Is understanding what that code is actually doing</font>
+
+37
+00:01:52,384 --> 00:01:56,224
+<font color="#efefef">So in this course we're not just going to see examples and we'll see plenty</font>
+
+38
+00:01:56,736 --> 00:01:57,760
+<font color="#f3f3f3">We're going to</font>
+
+39
+00:01:58,016 --> 00:01:58,528
+<font color="#fcfcfc">Focus</font>
+
+40
+00:01:58,784 --> 00:02:02,880
+<font color="#e7e7e7">I'm truly understanding not just what the how and why</font>
+
+41
+00:02:03,136 --> 00:02:04,672
+<font color="#f8f8f8">How does nodejs work</font>
+
+42
+00:02:04,928 --> 00:02:07,232
+<font color="#fcfcfc">Why is it structured the way it is</font>
+
+43
+00:02:07,488 --> 00:02:11,584
+<font color="#fcfcfc">How can I use the fundamental JavaScript knowledge that I need</font>
+
+44
+00:02:11,840 --> 00:02:13,632
+<font color="#d4d4d4">And that you came through this course</font>
+
+45
+00:02:13,888 --> 00:02:16,960
+<font color="#f0f0f0">In order to become a better know JS developer</font>
+
+46
+00:02:17,984 --> 00:02:21,312
+<font color="#fbfbfb">For example this code here is where most node</font>
+
+47
+00:02:21,568 --> 00:02:23,104
+<font color="#f8f8f8">JS courses start</font>
+
+48
+00:02:23,616 --> 00:02:25,152
+<font color="#fcfcfc">And it's awesome it's</font>
+
+49
+00:02:25,920 --> 00:02:29,760
+<font color="#ededed">A web server in just a few lines of code of JavaScript code</font>
+
+50
+00:02:30,528 --> 00:02:33,344
+<font color="#f6f6f6">Question is why you could install node</font>
+
+51
+00:02:33,856 --> 00:02:35,392
+<font color="#f7f7f7">And run this code</font>
+
+52
+00:02:35,904 --> 00:02:37,696
+<font color="#f0f0f0">And watch your web server start</font>
+
+53
+00:02:38,976 --> 00:02:41,280
+<font color="#fcfcfc">Do you really understand what's happening</font>
+
+54
+00:02:41,792 --> 00:02:42,816
+<font color="#ededed">Under the hood</font>
+
+55
+00:02:43,328 --> 00:02:44,608
+<font color="#fafafa">Do you understand what's happening</font>
+
+56
+00:02:44,864 --> 00:02:46,656
+<font color="#fbfbfb">From a JavaScript perspective</font>
+
+57
+00:02:47,168 --> 00:02:49,472
+<font color="#fbfbfb">All the elements and aspects of this code</font>
+
+58
+00:02:51,520 --> 00:02:52,544
+<font color="#fcfcfc">That question</font>
+
+59
+00:02:52,800 --> 00:02:54,336
+<font color="#fcfcfc">Is the one that will Define</font>
+
+60
+00:02:54,592 --> 00:02:55,360
+<font color="#fcfcfc">Weather</font>
+
+61
+00:02:55,616 --> 00:02:56,640
+<font color="#dcdcdc">You're imitating</font>
+
+62
+00:02:57,408 --> 00:02:58,432
+<font color="#fcfcfc">Are you understanding</font>
+
+63
+00:02:59,456 --> 00:03:01,248
+<font color="#e6e6e6">And so in this course again</font>
+
+64
+00:03:01,504 --> 00:03:03,552
+<font color="#fcfcfc">We're not just going</font>
+
+65
+00:03:03,808 --> 00:03:09,952
+<font color="#f0f0f0">To write code we're going to work on understanding what's really happening and why it's working the way</font>
+
+66
+00:03:10,208 --> 00:03:10,720
+<font color="#fcfcfc">It is</font>
+
+67
+00:03:11,232 --> 00:03:12,768
+<font color="#fcfcfc">So we're not ready for this code</font>
+
+68
+00:03:13,280 --> 00:03:15,328
+<font color="#fcfcfc">We're going to take several steps back</font>
+
+69
+00:03:16,352 --> 00:03:17,120
+<font color="#fcfcfc">And look</font>
+
+70
+00:03:17,376 --> 00:03:18,656
+<font color="#e5e5e5">Under the hood to see</font>
+
+71
+00:03:19,168 --> 00:03:20,960
+<font color="#e2e2e2">What's really happening and eventually</font>
+
+72
+00:03:21,216 --> 00:03:21,984
+<font color="#e9e9e9">We'll get back here</font>
+
+73
+00:03:23,008 --> 00:03:23,520
+<font color="#f4f4f4">But</font>
+
+74
+00:03:23,776 --> 00:03:25,056
+<font color="#f2f2f2">Our primary intent</font>
+
+75
+00:03:25,312 --> 00:03:26,080
+<font color="#c8c8c8">Is don't</font>
+
+76
+00:03:26,592 --> 00:03:27,872
+<font color="#fcfcfc">Imitate understand</font>
+
+77
+00:03:28,640 --> 00:03:29,408
+<font color="#cecece">So will</font>
+
+78
+00:03:29,664 --> 00:03:30,176
+<font color="#fcfcfc">Take</font>
+
+79
+00:03:30,432 --> 00:03:31,456
+<font color="#e1e1e1">Again I'll look</font>
+
+80
+00:03:31,968 --> 00:03:32,736
+<font color="#f6f6f6">Under the hood</font>
+
+81
+00:03:33,760 --> 00:03:36,320
+<font color="#e8e8e8">Will dive into the V8 engine</font>
+
+82
+00:03:36,832 --> 00:03:40,416
+<font color="#f7f7f7">The JavaScript engine that's at the core of nodejs</font>
+
+83
+00:03:40,928 --> 00:03:41,952
+<font color="#fcfcfc">As well as</font>
+
+84
+00:03:42,208 --> 00:03:44,256
+<font color="#f8f8f8">What nodejs is adding on</font>
+
+85
+00:03:44,512 --> 00:03:45,792
+<font color="#eeeeee">To that V8 engine</font>
+
+86
+00:03:46,304 --> 00:03:49,120
+<font color="#fcfcfc">In order to expand the JavaScript language</font>
+
+87
+00:03:49,376 --> 00:03:51,680
+<font color="#f3f3f3">And turn it into something that we can use</font>
+
+88
+00:03:51,936 --> 00:03:53,216
+<font color="#eaeaea">To write server code</font>
+
+89
+00:03:53,984 --> 00:03:59,104
+<font color="#fcfcfc">And being a good nodejs developer means being an excellent JavaScript developer</font>
+
+90
+00:03:59,616 --> 00:04:03,712
+<font color="#f4f4f4">So we won't just skim over JavaScript Concepts that may be unfamiliar</font>
+
+91
+00:04:05,248 --> 00:04:08,320
+<font color="#fcfcfc">Emel examine that fundamental knowledge that you need</font>
+
+92
+00:04:08,576 --> 00:04:10,368
+<font color="#fcfcfc">In order to understand</font>
+
+93
+00:04:10,624 --> 00:04:11,648
+<font color="#d8d8d8">A particular area</font>
+
+94
+00:04:11,904 --> 00:04:13,184
+<font color="#b8b8b8">For aspect or technique</font>
+
+95
+00:04:13,440 --> 00:04:14,976
+<font color="#ededed">Within nodejs itself</font>
+
+96
+00:04:15,744 --> 00:04:17,024
+<font color="#fdfdfd">The better you know JavaScript</font>
+
+97
+00:04:17,536 --> 00:04:19,583
+<font color="#fcfcfc">The better you'll be able to write code</font>
+
+98
+00:04:20,095 --> 00:04:21,375
+<font color="#f4f4f4">Using nodejs</font>
+
+99
+00:04:22,399 --> 00:04:22,911
+<font color="#e7e7e7">Alright</font>
+
+100
+00:04:23,423 --> 00:04:24,191
+<font color="#fcfcfc">So don't imitate</font>
+
+101
+00:04:24,703 --> 00:04:25,727
+<font color="#fcfcfc">Understand</font>
+
+102
+00:04:25,983 --> 00:04:28,031
+<font color="#fafafa">And this course we're going to learn</font>
+
+103
+00:04:28,287 --> 00:04:29,567
+<font color="#fcfcfc">And understand</font>
+
+104
+00:04:29,823 --> 00:04:30,847
+<font color="#f4f4f4">Nodejs</font>
+
+105
+00:04:31,615 --> 00:04:32,383
+<font color="#fbfbfb">Let's get started</font>

@@ -1,0 +1,419 @@
+﻿1
+00:00:00,256 --> 00:00:06,400
+<font color="#fcfcfc">Đây là một trong những công nghệ máy chủ mạnh mẽ và phổ biến nhất hiện nay</font>
+
+2
+00:00:06,656 --> 00:00:12,800
+<font color="#e4e4e4">Các chuyên gia nằm trong số những người được trả lương cao nhất trong ngành cho phép bạn xây dựng toàn bộ phần mềm web và</font>
+
+3
+00:00:13,056 --> 00:00:19,200
+<font color="#fcfcfc">Chỉ có một ngôn ngữ lập trình và đã đến lúc bạn hiểu nó</font>
+
+4
+00:00:19,456 --> 00:00:25,600
+<font color="#f4f4f4">Chào mừng bạn đến tìm hiểu và hiểu các nút</font>
+
+5
+00:00:32,512 --> 00:00:33,024
+<font color="#f3f3f3">Chào</font>
+
+6
+00:00:33,280 --> 00:00:34,560
+<font color="#d7d7d7">Tôi là Tony Alicia</font>
+
+7
+00:00:34,816 --> 00:00:39,168
+<font color="#e1e1e1">15 năm kinh nghiệm phát triển ứng dụng web và thiết kế trải nghiệm người dùng của tôi</font>
+
+8
+00:00:39,424 --> 00:00:40,704
+<font color="#fcfcfc">Và chào mừng bạn đến khóa học này</font>
+
+9
+00:00:41,984 --> 00:00:46,848
+<font color="#f6f6f6">Trong khóa học này, chúng ta sẽ lặn sâu dưới mui xe của nodejs</font>
+
+10
+00:00:47,360 --> 00:00:48,128
+<font color="#f7f7f7">Sự nổi tiếng</font>
+
+11
+00:00:48,384 --> 00:00:50,688
+<font color="#f6f6f6">Công nghệ máy chủ phổ biến cho phép chúng tôi</font>
+
+12
+00:00:50,944 --> 00:00:53,504
+<font color="#ebebeb">Viết mã máy chủ bằng JavaScript</font>
+
+13
+00:00:54,784 --> 00:00:56,320
+<font color="#fcfcfc">Khóa học này không phải là về</font>
+
+14
+00:00:56,576 --> 00:00:57,856
+<font color="#fcfcfc">Lặn vào</font>
+
+15
+00:00:58,368 --> 00:00:58,880
+<font color="#f5f5f5">Chỉ</font>
+
+16
+00:00:59,136 --> 00:01:01,440
+<font color="#f7f7f7">Nút nodej là gì và bạn có thể làm gì với nó</font>
+
+17
+00:01:02,208 --> 00:01:03,232
+<font color="#d5d5d5">Đàm luận</font>
+
+18
+00:01:03,488 --> 00:01:06,816
+<font color="#fcfcfc">Phải làm gì với triết lý cơ bản của tôi khi nó đến</font>
+
+19
+00:01:07,072 --> 00:01:07,840
+<font color="#d9d9d9">Để học</font>
+
+20
+00:01:08,096 --> 00:01:10,144
+<font color="#fcfcfc">Đặc biệt là khi nói đến mã học tập</font>
+
+21
+00:01:11,168 --> 00:01:12,704
+<font color="#f7f7f7">Triết lý của tôi là</font>
+
+22
+00:01:13,472 --> 00:01:14,240
+<font color="#fcfcfc">Đừng bắt chước</font>
+
+23
+00:01:15,008 --> 00:01:16,032
+<font color="#fcfcfc">Hiểu không</font>
+
+24
+00:01:17,312 --> 00:01:22,688
+<font color="#fbfbfb">Tôi nghĩ rằng vấn đề lớn nhất với hầu hết các cuốn sách mã hóa và hướng dẫn và video trực tuyến</font>
+
+25
+00:01:22,944 --> 00:01:23,456
+<font color="#f8f8f8">Đó à</font>
+
+26
+00:01:23,712 --> 00:01:25,504
+<font color="#fcfcfc">Trọng tâm là giả</font>
+
+27
+00:01:25,760 --> 00:01:26,528
+<font color="#bbbbbb">Những từ khác</font>
+
+28
+00:01:27,040 --> 00:01:28,576
+<font color="#fcfcfc">Người hướng dẫn viết một số mã</font>
+
+29
+00:01:28,832 --> 00:01:30,112
+<font color="#fcfcfc">Và sau đó bạn viết mã đó</font>
+
+30
+00:01:30,624 --> 00:01:32,928
+<font color="#e4e4e4">Và sau đó giả định là oh</font>
+
+31
+00:01:33,184 --> 00:01:34,208
+<font color="#f0f0f0">Bạn biết bạn đang làm gì</font>
+
+32
+00:01:34,976 --> 00:01:39,840
+<font color="#f7f7f7">Nhưng sau đó bạn bước ra ngoài thế giới thực và đối mặt với những vấn đề khác với những vấn đề bạn thấy trong khóa học</font>
+
+33
+00:01:40,352 --> 00:01:41,376
+<font color="#e0e0e0">Chúng tôi ngã xuống</font>
+
+34
+00:01:42,144 --> 00:01:42,656
+<font color="#f1f1f1">Tại sao</font>
+
+35
+00:01:43,424 --> 00:01:47,264
+<font color="#f9f9f9">Bởi vì quan trọng hơn nhiều so với việc bắt chước mã của người khác</font>
+
+36
+00:01:48,032 --> 00:01:51,360
+<font color="#fcfcfc">Hiểu được mã đó thực sự đang làm gì</font>
+
+37
+00:01:52,384 --> 00:01:56,224
+<font color="#efefef">Vì vậy, trong khóa học này, chúng ta sẽ không chỉ xem các ví dụ và chúng ta sẽ thấy rất nhiều</font>
+
+38
+00:01:56,736 --> 00:01:57,760
+<font color="#f3f3f3">Sắp tới</font>
+
+39
+00:01:58,016 --> 00:01:58,528
+<font color="#fcfcfc">Tiêu điểm</font>
+
+40
+00:01:58,784 --> 00:02:02,880
+<font color="#e7e7e7">Tôi thực sự hiểu không chỉ là làm thế nào và tại sao</font>
+
+41
+00:02:03,136 --> 00:02:04,672
+<font color="#f8f8f8">Nút hoạt động như thế nào</font>
+
+42
+00:02:04,928 --> 00:02:07,232
+<font color="#fcfcfc">Tại sao nó được cấu trúc theo cách nó</font>
+
+43
+00:02:07,488 --> 00:02:11,584
+<font color="#fcfcfc">Làm cách nào tôi có thể sử dụng kiến thức JavaScript cơ bản mà tôi cần</font>
+
+44
+00:02:11,840 --> 00:02:13,632
+<font color="#d4d4d4">Và bạn đã vượt qua khóa học này</font>
+
+45
+00:02:13,888 --> 00:02:16,960
+<font color="#f0f0f0">Để trở thành một nhà phát triển JS biết rõ hơn</font>
+
+46
+00:02:17,984 --> 00:02:21,312
+<font color="#fbfbfb">Ví dụ, mã này ở đây là nơi mà hầu hết các nút</font>
+
+47
+00:02:21,568 --> 00:02:23,104
+<font color="#f8f8f8">Khóa học JS bắt đầu</font>
+
+48
+00:02:23,616 --> 00:02:25,152
+<font color="#fcfcfc">Và nó thật tuyệt vời</font>
+
+49
+00:02:25,920 --> 00:02:29,760
+<font color="#ececec">Một máy chủ web chỉ trong một vài dòng mã JavaScript</font>
+
+50
+00:02:30,528 --> 00:02:33,344
+<font color="#f6f6f6">Câu hỏi là tại sao bạn có thể cài đặt nút</font>
+
+51
+00:02:33,856 --> 00:02:35,392
+<font color="#f7f7f7">Và chạy mã này</font>
+
+52
+00:02:35,904 --> 00:02:37,696
+<font color="#f0f0f0">Và xem máy chủ web của bạn bắt đầu</font>
+
+53
+00:02:38,976 --> 00:02:41,280
+<font color="#fcfcfc">Bạn có thực sự hiểu chuyện gì đang xảy ra không</font>
+
+54
+00:02:41,792 --> 00:02:42,816
+<font color="#ededed">Dưới mui xe</font>
+
+55
+00:02:43,328 --> 00:02:44,608
+<font color="#fafafa">Bạn có hiểu chuyện gì đang xảy ra không</font>
+
+56
+00:02:44,864 --> 00:02:46,656
+<font color="#fbfbfb">Từ góc độ JavaScript</font>
+
+57
+00:02:47,168 --> 00:02:49,472
+<font color="#fbfbfb">Tất cả các yếu tố và khía cạnh của mã này</font>
+
+58
+00:02:51,520 --> 00:02:52,544
+<font color="#fcfcfc">Câu hỏi đó</font>
+
+59
+00:02:52,800 --> 00:02:54,336
+<font color="#fcfcfc">Là một trong đó sẽ xác định</font>
+
+60
+00:02:54,592 --> 00:02:55,360
+<font color="#fcfcfc">Thời tiết</font>
+
+61
+00:02:55,616 --> 00:02:56,640
+<font color="#dcdcdc">Bạn đang bắt chước</font>
+
+62
+00:02:57,408 --> 00:02:58,432
+<font color="#fcfcfc">Bạn có hiểu kg</font>
+
+63
+00:02:59,456 --> 00:03:01,248
+<font color="#e9e9e9">Và như vậy trong khóa học này một lần nữa</font>
+
+64
+00:03:01,504 --> 00:03:03,552
+<font color="#fcfcfc">Chúng tôi không chỉ đi</font>
+
+65
+00:03:03,808 --> 00:03:09,952
+<font color="#f0f0f0">Để viết mã, chúng tôi sẽ làm việc để hiểu những gì đang thực sự xảy ra và tại sao nó hoạt động theo cách</font>
+
+66
+00:03:10,208 --> 00:03:10,720
+<font color="#fcfcfc">Nó là</font>
+
+67
+00:03:11,232 --> 00:03:12,768
+<font color="#fcfcfc">Vì vậy, chúng tôi chưa sẵn sàng cho mã này</font>
+
+68
+00:03:13,280 --> 00:03:15,328
+<font color="#fcfcfc">Chúng ta sẽ lùi vài bước</font>
+
+69
+00:03:16,352 --> 00:03:17,120
+<font color="#fcfcfc">Và nhìn kìa</font>
+
+70
+00:03:17,376 --> 00:03:18,656
+<font color="#e5e5e5">Dưới mui xe để xem</font>
+
+71
+00:03:19,168 --> 00:03:20,960
+<font color="#e2e2e2">Điều gì thực sự xảy ra và cuối cùng</font>
+
+72
+00:03:21,216 --> 00:03:21,984
+<font color="#e9e9e9">Chúng tôi sẽ quay lại đây</font>
+
+73
+00:03:23,008 --> 00:03:23,520
+<font color="#f4f4f4">Nhưng</font>
+
+74
+00:03:25,312 --> 00:03:26,080
+<font color="#c8c8c8">Không</font>
+
+75
+00:03:26,592 --> 00:03:27,872
+<font color="#fcfcfc"></font>
+
+76
+00:03:28,640 --> 00:03:29,408
+<font color="#cecece">Vì vậy, sẽ</font>
+
+77
+00:03:29,664 --> 00:03:30,176
+<font color="#fcfcfc">Lấy</font>
+
+78
+00:03:30,432 --> 00:03:31,456
+<font color="#e1e1e1">Một lần nữa tôi sẽ xem xét</font>
+
+79
+00:03:31,968 --> 00:03:32,736
+<font color="#f6f6f6">Dưới mui xe</font>
+
+80
+00:03:33,760 --> 00:03:36,320
+<font color="#e8e8e8">Sẽ đi sâu vào động cơ V8</font>
+
+81
+00:03:36,832 --> 00:03:40,416
+<font color="#f7f7f7">Công cụ JavaScript là cốt lõi của các nút</font>
+
+82
+00:03:40,928 --> 00:03:41,952
+<font color="#fcfcfc">Cũng như</font>
+
+83
+00:03:42,208 --> 00:03:44,256
+<font color="#f8f8f8">Những gì nodejs đang thêm vào</font>
+
+84
+00:03:44,512 --> 00:03:45,792
+<font color="#eeeeee">Đến động cơ V8 đó</font>
+
+85
+00:03:46,304 --> 00:03:49,120
+<font color="#fcfcfc">Để mở rộng ngôn ngữ JavaScript</font>
+
+86
+00:03:49,376 --> 00:03:51,680
+<font color="#f3f3f3">Và biến nó thành thứ gì đó mà chúng ta có thể sử dụng</font>
+
+87
+00:03:51,936 --> 00:03:53,216
+<font color="#eaeaea">Để viết mã máy chủ</font>
+
+88
+00:03:53,984 --> 00:03:59,104
+<font color="#fcfcfc">Và là một nhà phát triển nút tốt có nghĩa là trở thành nhà phát triển JavaScript xuất sắc</font>
+
+89
+00:03:59,616 --> 00:04:03,712
+<font color="#f4f4f4">Vì vậy, chúng tôi sẽ không chỉ lướt qua các khái niệm JavaScript có thể không quen thuộc</font>
+
+90
+00:04:04,224 --> 00:04:04,992
+<font color="#dadada">.</font>
+
+91
+00:04:05,248 --> 00:04:08,320
+<font color="#ebebeb">Emily kiểm tra kiến thức cơ bản mà bạn cần</font>
+
+92
+00:04:08,576 --> 00:04:10,368
+<font color="#fcfcfc">Để hiểu được</font>
+
+93
+00:04:10,624 --> 00:04:11,648
+<font color="#dbdbdb">Khu vực đặc biệt</font>
+
+94
+00:04:11,904 --> 00:04:13,184
+<font color="#b8b8b8">Đối với khía cạnh hoặc kỹ thuật</font>
+
+95
+00:04:13,440 --> 00:04:14,976
+<font color="#ededed">Trong chính nodejs</font>
+
+96
+00:04:15,744 --> 00:04:17,024
+<font color="#fdfdfd">Bạn càng biết JavaScript</font>
+
+97
+00:04:17,536 --> 00:04:19,583
+<font color="#fcfcfc">Bạn càng có khả năng viết mã</font>
+
+98
+00:04:20,095 --> 00:04:21,375
+<font color="#f4f4f4">Sử dụng nodejs</font>
+
+99
+00:04:22,399 --> 00:04:22,911
+<font color="#e7e7e7">Ổn thỏa</font>
+
+100
+00:04:23,423 --> 00:04:24,191
+<font color="#fcfcfc">Vì vậy, đừng bắt chước</font>
+
+101
+00:04:24,703 --> 00:04:25,727
+<font color="#fcfcfc">Hiểu không</font>
+
+102
+00:04:25,983 --> 00:04:28,031
+<font color="#fafafa">Và khóa học này chúng ta sẽ học</font>
+
+103
+00:04:28,287 --> 00:04:29,567
+<font color="#fcfcfc">Va hieu</font>
+
+104
+00:04:29,823 --> 00:04:30,847
+<font color="#f4f4f4">Nodejs</font>
+
+105
+00:04:31,615 --> 00:04:32,383
+<font color="#fbfbfb">Băt đâu nao</font>
